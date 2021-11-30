@@ -1,0 +1,36 @@
+* {
+    margin: 15px  10px;
+}
+
+.search {
+    width: 125px;
+    color: rgb(100, 223, 223);
+    border: 2px solid rgb(100, 223, 223);
+    background: white;
+    text-align: center;
+    border-radius: 15px;
+    padding: 3px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.plus {
+    width: 40px;
+    height: 40px;
+    background: cyan;
+    text-align: center;
+    border-radius: 50%;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border: none;
+}
+
+.account {
+    width: 130px;
+    height: 40px;
+    background-color: rgb(61, 61, 250);
+    color: white;
+    font-weight: bold;
+    box-shadow: 5px 5px 0 0 black;
+}
